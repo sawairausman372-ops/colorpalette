@@ -1,0 +1,42 @@
+export const chats = [
+  {
+    id: 1,
+    name: "Sara",
+    image: "https://randomuser.me/api/portraits/women/44.jpg",
+    message: "Hey! How are you?",
+    time: "10:00 PM",
+    messageCount: "4",
+  },
+  {
+    id: 2,
+    name: "Ayesha",
+    image: "https://randomuser.me/api/portraits/women/68.jpg",
+    message: "Did you complete the task?",
+    time: "9:45 PM",
+    messageCount: "2",
+  },
+  {
+    id: 3,
+    name: "Ali",
+    image: "https://randomuser.me/api/portraits/men/32.jpg",
+    message: "Let's meet tomorrow",
+    time: "8:30 PM",
+    messageCount: "1",
+  },
+  {
+    id: 4,
+    name: "Hamza",
+    image: "https://randomuser.me/api/portraits/men/76.jpg",
+    message: "Call me when free",
+    time: "7:15 PM",
+    messageCount: "3",
+  },
+  {
+    id: 5,
+    name: "Zara",
+    image: "https://randomuser.me/api/portraits/women/21.jpg",
+    message: "Thanks a lot 💖",
+    time: "6:50 PM",
+    messageCount: "5",
+  },
+];
